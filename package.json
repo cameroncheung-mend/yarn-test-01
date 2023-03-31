@@ -1,0 +1,9 @@
+{
+  "name": "yarn-test-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jfrog-trial-sum-example": "^1.0.0"
+  }
+}
